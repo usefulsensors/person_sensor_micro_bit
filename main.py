@@ -1,6 +1,6 @@
 # MicroPython example of reading the Person Sensor from Useful Sensors on a
-# Micro:bit. See https://bit.ly/ps_dev for full documentation on the module, and
-# README.md for details on wiring and assembly.
+# Micro:bit. See https://usfl.ink/ps_dev for full documentation on the module,
+# and README.md in this project for details on wiring and assembly.
 
 from microbit import *
 
